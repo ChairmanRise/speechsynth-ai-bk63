@@ -1,4 +1,4 @@
-# 
+# Profesional SpeechSynth configuración. Descarga e instala con soporte para Docker y modelos preconfigurados — rápido, seguro y fácil de usar.
 
 
 
